@@ -17,6 +17,7 @@ import Navigation from './Navigation';
   const ITEM_HEIGHT = 48;
 const Dashboard = (props) => {
     // fill out this component
+    //
  
 
 //   const handleClick = event => {
